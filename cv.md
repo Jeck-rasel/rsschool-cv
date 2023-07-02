@@ -19,4 +19,8 @@ function multiply(a, b) {
 ```
 # Education
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-* Francisk Skorina Gomel State University (law faculty)
+* Francisk Skorina Gomel State University (law faculty) 
+# Language 
+* Russian - Native
+* English - B1
+* Belorussian - Native
