@@ -20,6 +20,3 @@ function multiply(a, b) {
 # Education
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * Francisk Skorina Gomel State University (law faculty)
-# Languages 
-* Enlish - B1
-* Russian - Native
