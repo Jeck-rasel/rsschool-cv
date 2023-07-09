@@ -7,6 +7,7 @@ body {
 }
 a {
   text-decoration: none;
+  color: rgb(248, 201, 232);
 }
 h1 {
     background:  linear-gradient(#e22d5a, #6ec0f0);
